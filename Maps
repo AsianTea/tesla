@@ -1,0 +1,9 @@
+/usr/local/bin/
+
+nav-apply-map-patch.sh
+nav-new-sdcard.sh
+nav-repartition-sdcard.sh
+nav-sdcard-format.sh
+nav-sync-and-apply-map-patch.sh
+nav-update-sdcard.sh
+
